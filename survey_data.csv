@@ -1,0 +1,101 @@
+survey_id,customer_name,tier,comment,sentiment_score,classification,date
+1,"Aarav Sharma",Standard,"Awesome application! Fast loading and very smooth experience. (ID #1)",1.0,Satisfied,2026-10-05
+2,"Priya Verma",Enterprise,"Awesome application! Fast loading and very smooth experience. (ID #2)",1.0,Satisfied,2026-10-07
+3,"Rahul Gupta",Pro,"Bekar app hai, time waste ho gaya mera. (ID #3)",-1.0,Dissatisfied,2026-09-14
+4,"Neha Singh",Pro,"It works fine for daily tasks, nothing extraordinary. (ID #4)",0.0,Neutral,2026-09-27
+5,"Amit Kumar",Enterprise,"It works fine for daily tasks, nothing extraordinary. (ID #5)",0.0,Neutral,2026-09-28
+6,"Ananya Mishra",Standard,"Extremely satisfied with the features and performance! (ID #6)",0.0,Neutral,2026-09-15
+7,"Rohan Joshi",Standard,"Bohot badiya app hai! Customer support ne turant problem solve kar di. (ID #7)",0.0,Neutral,2026-10-05
+8,"Pooja Patel",Pro,"Extremely satisfied with the features and performance! (ID #8)",0.0,Neutral,2026-09-15
+9,"Vikram Malhotra",Enterprise,"Very poor experience. Refund nahi mila time par. (ID #9)",-1.0,Dissatisfied,2026-10-08
+10,"Sneha Rao",Enterprise,"Very poor experience. Refund nahi mila time par. (ID #10)",-1.0,Dissatisfied,2026-10-10
+11,"Karan Mehta",Standard,"Bilkul bakwas service hai. App baar baar crash ho raha hai. (ID #11)",-1.0,Dissatisfied,2026-10-11
+12,"Divya Nair",Enterprise,"Bilkul bakwas service hai. App baar baar crash ho raha hai. (ID #12)",-1.0,Dissatisfied,2026-09-13
+13,"Manish Tiwari",Free,"Bekar app hai, time waste ho gaya mera. (ID #13)",-1.0,Dissatisfied,2026-10-06
+14,"Ritu Sen",Pro,"Theek-thaak hai, kuch khaas nahi. Pricing thodi zyada lagti hai. (ID #14)",0.0,Neutral,2026-09-15
+15,"Siddharth Das",Pro,"Bekar app hai, time waste ho gaya mera. (ID #15)",-1.0,Dissatisfied,2026-09-28
+16,"Kavita Reddy",Pro,"Average product. UI could be better for the price paid. (ID #16)",0.0,Neutral,2026-10-11
+17,"Abhishek Roy",Enterprise,"It works fine for daily tasks, nothing extraordinary. (ID #17)",0.0,Neutral,2026-10-02
+18,"Meenakshi Pillai",Standard,"Extremely satisfied with the features and performance! (ID #18)",0.0,Neutral,2026-09-25
+19,"Sanjay Deshmukh",Enterprise,"Theek-thaak hai, kuch khaas nahi. Pricing thodi zyada lagti hai. (ID #19)",0.0,Neutral,2026-09-19
+20,"Anjali Kulkarni",Standard,"Bohot badiya app hai! Customer support ne turant problem solve kar di. (ID #20)",0.0,Neutral,2026-10-08
+21,"Deepak Chawla",Standard,"Average product. UI could be better for the price paid. (ID #21)",0.0,Neutral,2026-10-10
+22,"Swati Nambiar",Free,"Fantastic service! Ekdum maza aa gaya using this software. (ID #22)",1.0,Satisfied,2026-09-12
+23,"Alok Jha",Enterprise,"Awesome application! Fast loading and very smooth experience. (ID #23)",1.0,Satisfied,2026-10-02
+24,"Priyanka Saxena",Pro,"Extremely satisfied with the features and performance! (ID #24)",0.0,Neutral,2026-09-17
+25,"Tarun Bajaj",Standard,"Average product. UI could be better for the price paid. (ID #25)",0.0,Neutral,2026-10-07
+26,"Shreya Bansal",Enterprise,"It works fine for daily tasks, nothing extraordinary. (ID #26)",0.0,Neutral,2026-09-28
+27,"Nikhil Aggarwal",Standard,"Awesome application! Fast loading and very smooth experience. (ID #27)",1.0,Satisfied,2026-10-12
+28,"Kritika Kapoor",Free,"Bekar app hai, time waste ho gaya mera. (ID #28)",-1.0,Dissatisfied,2026-10-09
+29,"Mohit Yadav",Standard,"Very poor experience. Refund nahi mila time par. (ID #29)",-1.0,Dissatisfied,2026-09-15
+30,"Tanvi Shinde",Enterprise,"Awesome application! Fast loading and very smooth experience. (ID #30)",1.0,Satisfied,2026-09-16
+31,"Aarav Sharma",Enterprise,"Bekar app hai, time waste ho gaya mera. (ID #31)",-1.0,Dissatisfied,2026-10-07
+32,"Priya Verma",Enterprise,"Bohot badiya app hai! Customer support ne turant problem solve kar di. (ID #32)",0.0,Neutral,2026-10-12
+33,"Rahul Gupta",Standard,"Average product. UI could be better for the price paid. (ID #33)",0.0,Neutral,2026-09-25
+34,"Neha Singh",Standard,"Bekar app hai, time waste ho gaya mera. (ID #34)",-1.0,Dissatisfied,2026-09-22
+35,"Amit Kumar",Standard,"Very poor experience. Refund nahi mila time par. (ID #35)",-1.0,Dissatisfied,2026-10-10
+36,"Ananya Mishra",Free,"Extremely satisfied with the features and performance! (ID #36)",0.0,Neutral,2026-10-07
+37,"Rohan Joshi",Standard,"It works fine for daily tasks, nothing extraordinary. (ID #37)",0.0,Neutral,2026-09-18
+38,"Pooja Patel",Enterprise,"Average product. UI could be better for the price paid. (ID #38)",0.0,Neutral,2026-10-09
+39,"Vikram Malhotra",Enterprise,"Very poor experience. Refund nahi mila time par. (ID #39)",-1.0,Dissatisfied,2026-09-14
+40,"Sneha Rao",Standard,"Average product. UI could be better for the price paid. (ID #40)",0.0,Neutral,2026-09-30
+41,"Karan Mehta",Pro,"Theek-thaak hai, kuch khaas nahi. Pricing thodi zyada lagti hai. (ID #41)",0.0,Neutral,2026-10-05
+42,"Divya Nair",Enterprise,"Fantastic service! Ekdum maza aa gaya using this software. (ID #42)",1.0,Satisfied,2026-09-30
+43,"Manish Tiwari",Free,"Very poor experience. Refund nahi mila time par. (ID #43)",-1.0,Dissatisfied,2026-10-05
+44,"Ritu Sen",Standard,"Bekar app hai, time waste ho gaya mera. (ID #44)",-1.0,Dissatisfied,2026-09-21
+45,"Siddharth Das",Standard,"Bilkul bakwas service hai. App baar baar crash ho raha hai. (ID #45)",-1.0,Dissatisfied,2026-09-12
+46,"Kavita Reddy",Pro,"Bekar app hai, time waste ho gaya mera. (ID #46)",-1.0,Dissatisfied,2026-10-08
+47,"Abhishek Roy",Free,"Fantastic service! Ekdum maza aa gaya using this software. (ID #47)",1.0,Satisfied,2026-10-07
+48,"Meenakshi Pillai",Free,"Extremely satisfied with the features and performance! (ID #48)",0.0,Neutral,2026-10-07
+49,"Sanjay Deshmukh",Free,"Theek-thaak hai, kuch khaas nahi. Pricing thodi zyada lagti hai. (ID #49)",0.0,Neutral,2026-09-12
+50,"Anjali Kulkarni",Pro,"Very poor experience. Refund nahi mila time par. (ID #50)",-1.0,Dissatisfied,2026-10-12
+51,"Deepak Chawla",Enterprise,"Extremely satisfied with the features and performance! (ID #51)",0.0,Neutral,2026-10-05
+52,"Swati Nambiar",Enterprise,"Very poor experience. Refund nahi mila time par. (ID #52)",-1.0,Dissatisfied,2026-09-30
+53,"Alok Jha",Enterprise,"Bohot badiya app hai! Customer support ne turant problem solve kar di. (ID #53)",0.0,Neutral,2026-09-28
+54,"Priyanka Saxena",Standard,"Fantastic service! Ekdum maza aa gaya using this software. (ID #54)",1.0,Satisfied,2026-10-01
+55,"Tarun Bajaj",Enterprise,"Bekar app hai, time waste ho gaya mera. (ID #55)",-1.0,Dissatisfied,2026-10-05
+56,"Shreya Bansal",Standard,"Bekar app hai, time waste ho gaya mera. (ID #56)",-1.0,Dissatisfied,2026-10-10
+57,"Nikhil Aggarwal",Enterprise,"Bohot badiya app hai! Customer support ne turant problem solve kar di. (ID #57)",0.0,Neutral,2026-09-24
+58,"Kritika Kapoor",Standard,"Bilkul bakwas service hai. App baar baar crash ho raha hai. (ID #58)",-1.0,Dissatisfied,2026-09-14
+59,"Mohit Yadav",Free,"Bohot badiya app hai! Customer support ne turant problem solve kar di. (ID #59)",0.0,Neutral,2026-10-08
+60,"Tanvi Shinde",Enterprise,"Theek-thaak hai, kuch khaas nahi. Pricing thodi zyada lagti hai. (ID #60)",0.0,Neutral,2026-09-17
+61,"Aarav Sharma",Enterprise,"Average product. UI could be better for the price paid. (ID #61)",0.0,Neutral,2026-09-27
+62,"Priya Verma",Pro,"Average product. UI could be better for the price paid. (ID #62)",0.0,Neutral,2026-09-17
+63,"Rahul Gupta",Pro,"Bilkul bakwas service hai. App baar baar crash ho raha hai. (ID #63)",-1.0,Dissatisfied,2026-10-09
+64,"Neha Singh",Enterprise,"Fantastic service! Ekdum maza aa gaya using this software. (ID #64)",1.0,Satisfied,2026-10-05
+65,"Amit Kumar",Standard,"It works fine for daily tasks, nothing extraordinary. (ID #65)",0.0,Neutral,2026-10-07
+66,"Ananya Mishra",Enterprise,"It works fine for daily tasks, nothing extraordinary. (ID #66)",0.0,Neutral,2026-09-24
+67,"Rohan Joshi",Pro,"Bilkul bakwas service hai. App baar baar crash ho raha hai. (ID #67)",-1.0,Dissatisfied,2026-10-04
+68,"Pooja Patel",Enterprise,"Awesome application! Fast loading and very smooth experience. (ID #68)",1.0,Satisfied,2026-10-09
+69,"Vikram Malhotra",Standard,"Awesome application! Fast loading and very smooth experience. (ID #69)",1.0,Satisfied,2026-09-25
+70,"Sneha Rao",Free,"Awesome application! Fast loading and very smooth experience. (ID #70)",1.0,Satisfied,2026-09-28
+71,"Karan Mehta",Enterprise,"Extremely satisfied with the features and performance! (ID #71)",0.0,Neutral,2026-10-09
+72,"Divya Nair",Standard,"Extremely satisfied with the features and performance! (ID #72)",0.0,Neutral,2026-10-11
+73,"Manish Tiwari",Standard,"Awesome application! Fast loading and very smooth experience. (ID #73)",1.0,Satisfied,2026-09-18
+74,"Ritu Sen",Pro,"Very poor experience. Refund nahi mila time par. (ID #74)",-1.0,Dissatisfied,2026-09-21
+75,"Siddharth Das",Pro,"Extremely satisfied with the features and performance! (ID #75)",0.0,Neutral,2026-09-26
+76,"Kavita Reddy",Enterprise,"Theek-thaak hai, kuch khaas nahi. Pricing thodi zyada lagti hai. (ID #76)",0.0,Neutral,2026-09-19
+77,"Abhishek Roy",Free,"It works fine for daily tasks, nothing extraordinary. (ID #77)",0.0,Neutral,2026-10-08
+78,"Meenakshi Pillai",Pro,"Theek-thaak hai, kuch khaas nahi. Pricing thodi zyada lagti hai. (ID #78)",0.0,Neutral,2026-10-07
+79,"Sanjay Deshmukh",Standard,"Fantastic service! Ekdum maza aa gaya using this software. (ID #79)",1.0,Satisfied,2026-10-02
+80,"Anjali Kulkarni",Pro,"Bilkul bakwas service hai. App baar baar crash ho raha hai. (ID #80)",-1.0,Dissatisfied,2026-09-12
+81,"Deepak Chawla",Enterprise,"Fantastic service! Ekdum maza aa gaya using this software. (ID #81)",1.0,Satisfied,2026-09-25
+82,"Swati Nambiar",Free,"Fantastic service! Ekdum maza aa gaya using this software. (ID #82)",1.0,Satisfied,2026-09-12
+83,"Alok Jha",Standard,"Extremely satisfied with the features and performance! (ID #83)",0.0,Neutral,2026-09-18
+84,"Priyanka Saxena",Free,"Extremely satisfied with the features and performance! (ID #84)",0.0,Neutral,2026-10-10
+85,"Tarun Bajaj",Standard,"Bilkul bakwas service hai. App baar baar crash ho raha hai. (ID #85)",-1.0,Dissatisfied,2026-10-04
+86,"Shreya Bansal",Pro,"Extremely satisfied with the features and performance! (ID #86)",0.0,Neutral,2026-10-04
+87,"Nikhil Aggarwal",Free,"Bohot badiya app hai! Customer support ne turant problem solve kar di. (ID #87)",0.0,Neutral,2026-10-08
+88,"Kritika Kapoor",Enterprise,"It works fine for daily tasks, nothing extraordinary. (ID #88)",0.0,Neutral,2026-09-16
+89,"Mohit Yadav",Free,"It works fine for daily tasks, nothing extraordinary. (ID #89)",0.0,Neutral,2026-09-25
+90,"Tanvi Shinde",Standard,"Bohot badiya app hai! Customer support ne turant problem solve kar di. (ID #90)",0.0,Neutral,2026-10-02
+91,"Aarav Sharma",Free,"Bohot badiya app hai! Customer support ne turant problem solve kar di. (ID #91)",0.0,Neutral,2026-10-10
+92,"Priya Verma",Free,"Bekar app hai, time waste ho gaya mera. (ID #92)",-1.0,Dissatisfied,2026-09-23
+93,"Rahul Gupta",Pro,"Bohot badiya app hai! Customer support ne turant problem solve kar di. (ID #93)",0.0,Neutral,2026-10-03
+94,"Neha Singh",Pro,"Average product. UI could be better for the price paid. (ID #94)",0.0,Neutral,2026-10-11
+95,"Amit Kumar",Standard,"Very poor experience. Refund nahi mila time par. (ID #95)",-1.0,Dissatisfied,2026-09-18
+96,"Ananya Mishra",Free,"Fantastic service! Ekdum maza aa gaya using this software. (ID #96)",1.0,Satisfied,2026-09-14
+97,"Rohan Joshi",Free,"Awesome application! Fast loading and very smooth experience. (ID #97)",1.0,Satisfied,2026-09-20
+98,"Pooja Patel",Pro,"Bekar app hai, time waste ho gaya mera. (ID #98)",-1.0,Dissatisfied,2026-09-27
+99,"Vikram Malhotra",Enterprise,"It works fine for daily tasks, nothing extraordinary. (ID #99)",0.0,Neutral,2026-10-03
+100,"Sneha Rao",Standard,"Fantastic service! Ekdum maza aa gaya using this software. (ID #100)",1.0,Satisfied,2026-09-12
