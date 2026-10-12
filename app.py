@@ -4,12 +4,12 @@ from crm_database import init_crm_db, fetch_crm_data
 from classifier import classify_sentiment
 import sqlite3
 
-st.set_page_config(page_title="Indian Customer Satisfaction CRM", page_icon="🇮🇳", layout="wide")
+st.set_page_config(page_title="Customer Satisfaction CRM", page_icon="🇮🇳", layout="wide")
 
 init_crm_db()
 df = fetch_crm_data()
 
-st.title("🇮🇳 Indian Customer Satisfaction CRM Dashboard")
+st.title("Customer Satisfaction CRM Dashboard")
 st.markdown("NLP-powered classification system tracking local customer feedback and metrics.")
 
 # Metrics
